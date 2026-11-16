@@ -1,0 +1,12 @@
+AQI_lag_1
+AQI_lag_2
+AQI_lag_3
+AQI_lag_7
+AQI_lag_14
+AQI_rolling_mean_3
+AQI_rolling_mean_7
+AQI_rolling_mean_14
+target_month
+target_day_of_week
+target_day_of_year_sin
+target_day_of_year_cos
